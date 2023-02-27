@@ -1,9 +1,12 @@
-### Hi there 👋
+### Hi there 👋 ![] (https://media.giphy.com/media/3PAL5bChWnak0WJ32x/giphy.gif)
 Welcome to my page 
 
-About me.
+About me:
 
 My name Vitalik and i Junior QA Enginner.
+
+ 
+ Portfolio 
 
 
 <!--
