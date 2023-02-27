@@ -1,4 +1,8 @@
-### Hi there 👋 ![] (https://media.giphy.com/media/3PAL5bChWnak0WJ32x/giphy.gif)
+### Hi there 👋 
+![This is a gif] 
+(https://media.giphy.com/media/3PAL5bChWnak0WJ32x/giphy.gif)
+
+
 Welcome to my page 
 
 About me:
