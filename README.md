@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-![This is a gif](https://media.giphy.com/media/3PAL5bChWnak0WJ32x/giphy.gif)
+![giphy](https://user-images.githubusercontent.com/34197840/221627506-1bd38647-e775-4f14-a218-11dee9a05de4.gif)
 
 
 Welcome to my page 
