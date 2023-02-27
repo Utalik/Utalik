@@ -1,6 +1,5 @@
 ### Hi there 👋 
-![This is a gif] 
-(https://media.giphy.com/media/3PAL5bChWnak0WJ32x/giphy.gif)
+![This is a gif](https://media.giphy.com/media/3PAL5bChWnak0WJ32x/giphy.gif)
 
 
 Welcome to my page 
