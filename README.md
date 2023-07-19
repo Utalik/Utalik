@@ -7,7 +7,7 @@ Welcome to my page
 
 About me:
 
-My name Vitalik and i Junior QA Enginner.
+My name Vitalik and i'm Junior QA Enginner.
 
  
  Portfolio 
